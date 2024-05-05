@@ -14,7 +14,7 @@ produtos.html: Esta página fornece uma lista de produtos disponíveis para comp
 README.md: Este arquivo que você está lendo agora. Ele fornece uma visão geral do projeto e sua estrutura.
 Como Executar
 styles.css: Este arquivo contém os estilos CSS que são aplicados ao HTML para tornar o site visualmente atraente e responsivo.
-Para visualizar o site, basta abrir qualquer um dos arquivos HTML mencionados em um navegador da web. Certifique-se de que todos os arquivos (HTML, CSS, Java Script e imagens) estejam na mesma pasta ou ajuste os caminhos conforme necessário.
+Para visualizar o site, basta abrir qualquer um dos arquivos HTML mencionados em um navegador da web. Certifique-se de que todos os arquivos (HTML, CSS, JavaScript e imagens) estejam na mesma pasta ou ajuste os caminhos conforme necessário.
 JavaScript
 O JavaScript é usado no projeto para adicionar funcionalidades interativas, tais como:
 
